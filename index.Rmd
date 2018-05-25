@@ -1,6 +1,5 @@
 ---
 title: "Kathy Lin"
-layout: default
 ---
     
 * Currently under construction.
